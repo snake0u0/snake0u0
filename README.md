@@ -1,14 +1,14 @@
-# Hi, I'm Dohyung Kim 👋
+# Hi, I'm Dohyung Kim
 
-Undergraduate student interested in **FAB logistics optimization** and **smart manufacturing**.  
-Studying simulation, reinforcement learning, and neural operators to build intelligent systems for semiconductor manufacturing.
+Undergraduate student interested in **manufacturing & logistics optimization**.  
+Studying simulation, reinforcement learning, and neural operators to build intelligent systems for factory and logistics operations.
 
 ---
 
 ## 🎯 Goal
 
-> Targeting roles in **FAB transport optimization, logistics capacity verification, and simulation**  
-> at semiconductor companies (Samsung, SK Hynix).
+> Targeting roles in **factory simulation, logistics optimization, and capacity verification**  
+> in manufacturing industries.
 
 ---
 
@@ -17,10 +17,10 @@ Studying simulation, reinforcement learning, and neural operators to build intel
 **Comfortable with**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Learning**
 
@@ -34,9 +34,9 @@ Studying simulation, reinforcement learning, and neural operators to build intel
 
 | Repository | Description |
 |---|---|
-| [neural-operator-study](https://github.com/snake0u0/neural-operator-study) | FNO, DeepONet 등 뉴럴 오퍼레이터 공부 — FAB surrogate modeling 관점 |
-| [rl-optimization-study](https://github.com/snake0u0/rl-optimization-study) | RL 기반 디스패칭 및 스케줄링 최적화 공부 |
-| [flexsim-study](https://github.com/snake0u0/flexsim-study) | FlexSim 시뮬레이션 모델링 공부 — FAB 물류 중심 |
+| [neural-operator-study](https://github.com/snake0u0/neural-operator-study) | DeepONet, FNO 등 뉴럴 오퍼레이터 공부 |
+| [rl-optimization-study](https://github.com/snake0u0/rl-optimization-study) | RL 기반 스케줄링 최적화 공부 |
+| [flexsim-study](https://github.com/snake0u0/flexsim-study) | FlexSim 시뮬레이션 모델링 공부 — 제조·물류 중심 |
 
 ---
 
@@ -44,7 +44,7 @@ Studying simulation, reinforcement learning, and neural operators to build intel
 
 | Repository | Description |
 |---|---|
-| [fab-logistics-portfolio](https://github.com/snake0u0/fab-logistics-portfolio) | FAB 물류 최적화 프로젝트 — 시뮬레이션 · RL 디스패칭 · Surrogate Model |
+| [fab-logistics-portfolio](https://github.com/snake0u0/fab-logistics-portfolio) | 제조 물류 최적화 프로젝트 — 시뮬레이션 · RL 디스패칭 · Surrogate Model |
 
 ---
 
@@ -52,10 +52,10 @@ Studying simulation, reinforcement learning, and neural operators to build intel
 
 ```mermaid
 graph LR
-    A[FlexSim\nFAB Simulation] --> D[FAB Logistics\nOptimization]
+    A[FlexSim\nFactory Simulation] --> D[Manufacturing & Logistics\nOptimization]
     B[RL · Optimization\nDispatching] --> D
     C[Neural Operator\nSurrogate Model] --> D
-    D --> E[삼성 · SK하이닉스\n반송최적화 직무]
+    D --> E[제조·물류\n시뮬레이션 최적화 직무]
 ```
 
 ---
