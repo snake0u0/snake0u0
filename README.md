@@ -28,8 +28,3 @@ I am studying how optimization, machine learning, and reinforcement learning can
 - Mathematical optimization modeling
 - Reinforcement learning
 - Machine learning and deep learning
-
-## Contact
-
-- Email: 119turtle@naver.com
-- LinkedIn: https://www.linkedin.com/in/dohyung-kim-96ba0433a/
