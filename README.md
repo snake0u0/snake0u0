@@ -15,8 +15,6 @@ Undergraduate student interested in mathematical optimization, operations resear
 
 I am studying how optimization, simulation, machine learning, and reinforcement learning can support real-world decisions in scheduling, logistics planning, and capacity analysis.
 
-Most of my repositories are private because they include coursework, competition work, early research experiments, or personal AI-agent workflows. I prefer to publish projects after they are cleaned, reproducible, and technically honest.
-
 ## Contact
 
 - Email: 119turtle@naver.com
