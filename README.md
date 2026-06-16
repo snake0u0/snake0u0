@@ -1,15 +1,13 @@
 # Dohyung Kim
 
-Undergraduate student interested in mathematical optimization, operations research, and AI for manufacturing and logistics systems.
+Undergraduate student interested in Operations Research, and Data Scinece for manufacturing and logistics systems.
 
 ## Focus
 
-- Mathematical optimization
-- Operations research
-- Manufacturing and logistics decision problems
-- AGV scheduling and dispatching
-- Reinforcement learning for sequential decision-making
-- Machine learning and deep learning fundamentals
+- Operations research for manufacturing and logistics decision problems
+- Reinforcement learning
+- Data Scinence
+- AGV scheduling
 
 ## Current Direction
 
@@ -23,8 +21,10 @@ I am studying how optimization, machine learning, and reinforcement learning can
 - PyTorch
 - Git and GitHub
 
-## Currently Learning
+## Currently Studying
 
-- Mathematical optimization modeling
+- Operation Rseasearch
 - Reinforcement learning
-- Machine learning and deep learning
+- Data Science
+- Statistics
+- AI Agent
