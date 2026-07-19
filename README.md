@@ -7,7 +7,6 @@ Undergraduate student interested in Operations Research, and Data Scinece for ma
 - Operations research for manufacturing and logistics decision problems
 - Reinforcement learning
 - Data Scinence
-- AGV scheduling
 
 ## Current Direction
 
